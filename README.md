@@ -6,7 +6,7 @@
 
 Table of Contents
 =================
-- [FFHS-SWEM](#ffhs-iks)
+- [FFHS-IKS](#ffhs-iks)
 - [Table of Contents](#table-of-contents)
     - [What is this about?](#what-is-this-about)
       - [Grade](#grade)
