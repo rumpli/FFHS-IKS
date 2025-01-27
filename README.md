@@ -1,4 +1,4 @@
-# FFHS-SWEM
+# FFHS-IKS
 
 [![License](https://img.shields.io/badge/License-GPL--v3.0-lightgrey)](https://github.com/rumpli/FFHS-IKS/blob/main/LICENSE)
 
@@ -6,7 +6,7 @@
 
 Table of Contents
 =================
-- [FFHS-SWEM](#ffhs-swem)
+- [FFHS-SWEM](#ffhs-iks)
 - [Table of Contents](#table-of-contents)
     - [What is this about?](#what-is-this-about)
       - [Grade](#grade)
